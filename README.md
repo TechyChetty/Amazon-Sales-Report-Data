@@ -59,8 +59,9 @@ We also checked the percentage of cancellations between Amazon and Merchant, loo
 We concluded the report with a bar chart visualization showing the percentage distribution of Not B2B orders between Amazon and Merchants. This provided a clearer comparison of how each channel contributes to B2B transactions.
 
 ## Conclusions and Recommendations
-This conclusion is based solely on the analysis of orders from Maharashtra State.
+At the end of this project, the analysis revealed that most order cancellations occurred during B2C (Business-to-Consumer) transactions.
 
-Recommendation: Further investigation is required to determine if the same factors contribute to high cancellation rates in other states with significant cancellations.
+Recommendation: 
+It is recommended that Amazon focus more on B2B (Business-to-Business) transactions, as they tend to have lower cancellation rates and more stable order fulfillment.
 ![](thankyou.jpg)
 Thank you for following through.😊
